@@ -2,10 +2,10 @@
 
 Decoding and encoding a PNG image
 
-# ¿Versions?
+### ¿Versions?
 
 Tested with python2.7
 
-# ¿How to run?
+### ¿How to run?
 
 $ python x.py
